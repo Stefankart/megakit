@@ -6,11 +6,10 @@ hero:
 content_blocks:
   - _bookshop_name: start
     preheading: What we are
-    heading: We are a dynamic team of creative people
+    heading: Your Online Retail Partner
     text: >-
-      We provide consulting services in the area of IFRS and management
-      reporting, helping companies to reach their highest level. We optimize
-      business processes, making them easier.
+      We help B2B companies from SEA and China to stand out in the global
+      market.
     image_path: /images/bg/home-7.jpg
     button:
       text: Get started
@@ -19,16 +18,15 @@ content_blocks:
     sections:
       - title: Our Mission
         text: >-
-          llum similique ducimus accusamus laudantium praesentium, impedit
-          quaerat, itaque maxime sunt deleniti voluptas distinctio.
+          Help Chinese brand to overcome the barriers to enter  the western
+          markets and stand out. Typically we are looking for 3-5 year long
+          partnerships.
       - title: Vision
         text: >-
-          llum similique ducimus accusamus laudantium praesentium, impedit
-          quaerat, itaque maxime sunt deleniti voluptas distinctio.
+          Become A global leader for chinese and SAE SME's that want to enter
+          and dominate the global market.
       - title: Our Approach
-        text: >-
-          llum similique ducimus accusamus laudantium praesentium, impedit
-          quaerat, itaque maxime sunt deleniti voluptas distinctio.
+        text: We only work with handpicked and qualified businesses
   - _bookshop_name: counter_dark
     numbers:
       - icon: ti-check
