@@ -47,31 +47,31 @@ content_blocks:
         text: Awards Won
   - _bookshop_name: team
     preheading: Our Team
-    heading: Expert Team member to get best service
+    heading: 'Our Global Leaders '
     people:
-      - name: David Spensor
-        image: /images/team/team-1.jpg
+      - name: Stephan
+        image: /uploads/level4.jpg
         role: Project Manager
         facebook: themefisher
         twitter: themefisher
         instagram: themefisher
         linkedin: themefisher
-      - name: Jason Roy
-        image: /images/team/team-2.jpg
+      - name: Richard
+        image: /uploads/level4.jpg
         role: UI/UX Designer
         facebook: themefisher
         twitter: themefisher
         instagram: themefisher
         linkedin: themefisher
-      - name: Henry Oswald
-        image: /images/team/team-3.jpg
+      - name: Chiho
+        image: /uploads/level4.jpg
         role: Developer
         facebook: themefisher
         twitter: themefisher
         instagram: themefisher
         linkedin: themefisher
-      - name: David Williams
-        image: /images/team/team-4.jpg
+      - name: Salta
+        image: /uploads/level5.jpg
         role: Senior Marketer
         facebook: themefisher
         twitter: themefisher
