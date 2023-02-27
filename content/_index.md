@@ -74,9 +74,11 @@ content_blocks:
       - title: Bonusses & Guarentees
         icon: ''
         content: ''
-      - title: Be Socials
+      - title: LinkedIn Ads
         icon: ''
-        content: ''
+        content: >-
+          Don't miss out on valuable traffic. Transform our LinkedIn page into a
+          sales machine.
   - _bookshop_name: cta
     background_image: /images/bg/home-3.jpg
     preheading: On The Road ?
