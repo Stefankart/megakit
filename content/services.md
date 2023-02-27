@@ -27,8 +27,8 @@ content_blocks:
       - title: Tech Solutions
         icon: ti-android
         content: >-
-          A digital agency isn't here to replace your internal team, we're here
-          to partner.
+          No matter what language your website, application, or custom
+          development project speaks — or needs to speak — we can help.
       - title: Coaching & Training
         icon: ti-pencil-alt
         content: >-
@@ -42,8 +42,9 @@ content_blocks:
       - title: Investment Partner
         icon: ti-vector
         content: >-
-          A digital agency isn't here to replace your internal team, we're here
-          to partner.
+          We provide an offer with terms on how we would like to invest our
+          capital & time into your business to participate in the growth over
+          the next 3-5 years.
   - _bookshop_name: cta_mini
     preheading: For every type business
     heading: Entrust Your Project to Our Best Team of Professionals
