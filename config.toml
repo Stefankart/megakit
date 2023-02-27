@@ -1,6 +1,6 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
-title = "Megakit"
+title = "DMA-Global"
 Paginate = 20
 PaginatePath = "/"
 summaryLength = 10
