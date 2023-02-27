@@ -12,22 +12,28 @@ content_blocks:
     preheading: We only work with a selected few.
     heading: ' We''re looking to invest in one great business per month. Will it be yours?'
     sections:
-      - title: 'Size '
+      - title: Do you got what it take?
         icon: ''
         content: >-
-          You're a B2B company with minimum 6-figure annual revenue. You want to
-          invest in your blog and organic growth.
-      - title: Ready To Grow
+          You're a B2B company with at least 7 figures in annual revenue. You
+          are looking to invest in your business and scale.
+      - title: International Client base
+        icon:
+        content: You're located in China or SAE and have an international client base.
+      - title: Market
         icon:
         content: >-
-          You want to invest in improving supply chain efficiency to increase
-          your ROI
-      - title: Partnership
-        icon:
-        content: You are looking for a partner
+          You are an online service provider or a manufacturer, with a unique
+          avatar.
       - title: We Scaler Great Companies
         icon:
-        content: You want to invest in business and triple your growth.
+        content: This is an 80-20 done for you service. Are you ready to commit.
+      - title: Marketing budget
+        icon: ''
+        content: Your current marketing budget is 10k or more.
+      - title: Yes, I want Growth
+        icon: ''
+        content: You want to 3x your business and are ready to participate and invest.
   - _bookshop_name: counter
     numbers:
       - number: 200
