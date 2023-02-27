@@ -78,7 +78,7 @@ content_blocks:
         instagram: themefisher
         linkedin: themefisher
       - name: Peter Odin
-        image: /images/team/team-5.jpg
+        image: /uploads/level4.jpg
         role: App Developer
         facebook: themefisher
         twitter: themefisher
