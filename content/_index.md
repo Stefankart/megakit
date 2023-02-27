@@ -6,7 +6,7 @@ content_blocks:
     heading: We Help B2B brands  <br>To Stand Out On  <br> The Global Market
     background_image: /images/bg/home-1.jpg
     link:
-      text: Grow My Business
+      text: Scale My Business
       url: '#'
   - _bookshop_name: intro
     preheading: We only work with a selected few.
@@ -81,8 +81,8 @@ content_blocks:
           sales machine.
   - _bookshop_name: cta
     background_image: /images/bg/home-3.jpg
-    preheading: On The Road ?
-    heading: 'No Problem add us on Whatsapp '
+    preheading: WE SCALE GREAT COMPANIES.
+    heading: Have a question that can't wait.
     content: Chat on WhatsApp
     phone: +23 876 65 455
 ---
