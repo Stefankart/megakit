@@ -46,9 +46,9 @@ content_blocks:
           capital & time into your business to participate in the growth over
           the next 3-5 years.
   - _bookshop_name: cta_mini
-    preheading: For every type business
-    heading: Entrust Your Project to Our Best Team of Professionals
+    preheading: Join us
+    heading: We are building a community for international experts.
     button:
-      text: Contact
+      text: Sign Me Up
       url: /contact/
 ---
