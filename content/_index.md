@@ -34,6 +34,9 @@ content_blocks:
       - title: Yes, I want Growth
         icon: ''
         content: You want to 3x your business and are ready to participate and invest.
+      - title: ''
+        icon: ''
+        content: ''
   - _bookshop_name: counter
     numbers:
       - number: 200
@@ -49,30 +52,31 @@ content_blocks:
         suffix: +
         text: Team Members
   - _bookshop_name: services
-    preheading: We are not just for anyone
-    heading: 'Schedule a Free Power Hour Call '
+    preheading: Power Hour
+    heading: 'Sign up for a Free Power Hour Call '
     sections:
-      - title: Supply Chain Management
+      - title: Market Selection
+        icon:
+        content: Find out if you are you in the right market.
+      - title: Offer Creation
+        icon:
+        content: Learn how to optimize your offer to maximize your ROI.
+      - title: Value Equation
         icon:
         content: >-
-          We help brands to improve their supply chain efficiency, increasing
-          sales and optimizing inventory.
-      - title: Expert Community
+          Learn how to maximize your buyer's perceived value. So you get what
+          you deserve.
+      - title: Pricing Strategy
         icon:
         content: >-
-          An exclusive Business Services Marketplace to find international
-          *experts* to solve any business problem.
-      - title: Tech Solutions
-        icon:
-        content: >-
-          From app to web development and blockchain solutions. We got you
-          covered.
-      - title: Digital Marketing
-        icon:
-        content: >-
-          We help B2B companies from SEA and China get more qualified traffic,
-          sales, and revenue through conversion-focused SEO and content
-          marketing.
+          Are you struggling with acquisition? Learn how to effectively use
+          pricing strategies, so you get paid to find new customers.
+      - title: Bonusses & Guarentees
+        icon: ''
+        content: ''
+      - title: Be Socials
+        icon: ''
+        content: ''
   - _bookshop_name: cta
     background_image: /images/bg/home-3.jpg
     preheading: On The Road ?
