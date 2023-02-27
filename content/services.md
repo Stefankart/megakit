@@ -19,11 +19,11 @@ content_blocks:
           We help B2B companies from SEA and China get more qualified traffic,
           sales, and revenue through conversion-focused SEO and content
           marketing.
-      - title: Legal & Business Consulting
+      - title: Business Audit
         icon: ti-bar-chart
         content: >-
-          A digital agency isn't here to replace your internal team, we're here
-          to partner.
+          We analyze your traffic sources, acquisition process, and your
+          monetization strategy to show you the opportunities.
       - title: Tech Solutions
         icon: ti-android
         content: >-
