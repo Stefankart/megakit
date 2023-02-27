@@ -28,30 +28,6 @@ content_blocks:
       - title: We Scaler Great Companies
         icon:
         content: You want to invest in business and triple your growth.
-  - _bookshop_name: services
-    preheading: L
-    heading: 'We Are a Porfolio of Companies '
-    sections:
-      - title: Supply Chain Management
-        icon: ti-layers
-        content: >-
-          A digital agency isn't here to replace your internal team, we're here
-          to partner.
-      - title: Demand Gen
-        icon: ti-bar-chart
-        content: >-
-          A digital agency isn't here to replace your internal team, we're here
-          to partner.
-      - title: Content creation
-        icon: ti-pencil-alt
-        content: >-
-          A digital agency isn't here to replace your internal team, we're here
-          to partner.
-      - title: Branding
-        icon: ti-vector
-        content: >-
-          A digital agency isn't here to replace your internal team, we're here
-          to partner.
   - _bookshop_name: counter
     numbers:
       - number: 200
@@ -66,6 +42,31 @@ content_blocks:
       - number: 24
         suffix: +
         text: Team Members
+  - _bookshop_name: services
+    preheading: About us
+    heading: We Are a Portfolio of Comapanies
+    sections:
+      - title: Supply Chain Management
+        icon:
+        content: >-
+          We help brands to improve their supply chain efficiency, increasing
+          sales and optimizing inventory.
+      - title: Expert Community
+        icon:
+        content: >-
+          An exclusive Business Services Marketplace to find international
+          *experts* to solve any business problem.
+      - title: Tech Solutions
+        icon:
+        content: >-
+          From app to web development and blockchain solutions. We got you
+          covered.
+      - title: Digital Marketing
+        icon:
+        content: >-
+          We help B2B companies from SEA and China get more qualified traffic,
+          sales, and revenue through conversion-focused SEO and content
+          marketing.
   - _bookshop_name: cta
     background_image: /images/bg/home-3.jpg
     preheading: Our Services
