@@ -43,8 +43,8 @@ content_blocks:
         suffix: +
         text: Team Members
   - _bookshop_name: services
-    preheading: About us
-    heading: We Are a Portfolio of Comapanies
+    preheading: We are not just for anyone
+    heading: 'Schedule a Free Power Hour Call '
     sections:
       - title: Supply Chain Management
         icon:
@@ -69,8 +69,8 @@ content_blocks:
           marketing.
   - _bookshop_name: cta
     background_image: /images/bg/home-3.jpg
-    preheading: Our Services
-    heading: We Are Looking To Work With one Great Busienss a Month
-    content: Schedule a meeting to tripple your growth.
+    preheading: On The Road ?
+    heading: 'No Problem add us on Whatsapp '
+    content: Chat on WhatsApp
     phone: +23 876 65 455
 ---
