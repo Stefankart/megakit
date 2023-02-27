@@ -19,28 +19,18 @@ content_blocks:
           We help B2B companies from SEA and China get more qualified traffic,
           sales, and revenue through conversion-focused SEO and content
           marketing.
-      - title: Business Consulting
+      - title: Legal & Business Consulting
         icon: ti-bar-chart
         content: >-
           A digital agency isn't here to replace your internal team, we're here
           to partner.
-      - title: Branding
-        icon: ti-vector
-        content: >-
-          We create a strong, positive perception of a company, its products or
-          services in the mind of the customer.
       - title: Tech Solutions
         icon: ti-android
         content: >-
           A digital agency isn't here to replace your internal team, we're here
           to partner.
-      - title: Content creation
+      - title: Coaching & Training
         icon: ti-pencil-alt
-        content: >-
-          A digital agency isn't here to replace your internal team, we're here
-          to partner.
-      - title: Interface Design
-        icon: ti-layers
         content: >-
           A digital agency isn't here to replace your internal team, we're here
           to partner.
@@ -49,7 +39,7 @@ content_blocks:
         content: >-
           Business Services *Marketplace* to find international *experts* to
           solve any business problem.
-      - title: Investment
+      - title: Investment Partner
         icon: ti-vector
         content: >-
           A digital agency isn't here to replace your internal team, we're here
