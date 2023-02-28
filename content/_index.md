@@ -56,7 +56,7 @@ content_blocks:
         text: Team Members
   - _bookshop_name: services
     preheading: Power Hour
-    heading: 'Sign up for a Free Power Hour Call '
+    heading: 'Sign Up For A Free Power Hour Call '
     sections:
       - title: Market Selection
         icon:
