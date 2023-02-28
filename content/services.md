@@ -37,8 +37,8 @@ content_blocks:
       - title: Exlusive Community
         icon: ti-bar-chart
         content: >-
-          Business Services *Marketplace* to find international *experts* to
-          solve any business problem.
+          Business Services Marketplace to find international experts to solve
+          any business problem.
       - title: Investment Partner
         icon: ti-vector
         content: >-

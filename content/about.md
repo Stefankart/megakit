@@ -1,7 +1,7 @@
 ---
 title: About
 hero:
-  title: Our Company
+  title: About
   background_image: /images/bg/home-2.jpg
 content_blocks:
   - _bookshop_name: start
@@ -30,7 +30,7 @@ content_blocks:
   - _bookshop_name: counter_dark
     numbers:
       - icon: ti-check
-        number: 1730
+        number: 200
         suffix: +
         text: Projects Done
       - icon: ti-flag
@@ -38,13 +38,13 @@ content_blocks:
         suffix: M
         text: Users Worldwide
       - icon: ti-layers
-        number: 39
+        number: 8
         suffix: ''
         text: Available Countries
       - icon: ti-medall
-        number: 14
-        suffix: ''
-        text: Awards Won
+        number: 23
+        suffix: +
+        text: Team Members
   - _bookshop_name: team
     preheading: Our Team
     heading: 'Our Global Leaders '
