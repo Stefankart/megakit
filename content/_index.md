@@ -88,12 +88,4 @@ content_blocks:
     heading: Have a question that can't wait.
     content: Chat on WhatsApp
     phone: +23 876 65 455
-  - _bookshop_name: cta
-    background_image: ''
-    preheading: CTA
-    heading: Heading
-    content: >-
-      ## We're looking to invest in one great business per month. Will it be
-      yours?
-    phone: Call me
 ---
