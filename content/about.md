@@ -52,11 +52,11 @@ content_blocks:
     people:
       - name: Stephan
         image: /uploads/level4.jpg
-        role: Project Manager
+        role: CO-FOUNDER CEO
         facebook: themefisher
         twitter: themefisher
         instagram: themefisher
-        linkedin: themefisher
+        linkedin: stephan-dma
       - name: Richard
         image: /uploads/level4.jpg
         role: UI/UX Designer
@@ -86,7 +86,7 @@ content_blocks:
         instagram: themefisher
         linkedin: themefisher
       - image: /uploads/level4.jpg
-        name: David Spensor
+        name: 20+ team members
         role: Project Manager
         facebook: themefisher
         twitter: themefisher
