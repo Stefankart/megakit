@@ -34,12 +34,12 @@ content_blocks:
       - title: Yes, I want Growth
         icon: ''
         content: You want to 3x your business and are ready to participate and invest.
-      - title: ''
-        icon: ''
-        content: ''
-        
-      
-
+  - _bookshop_name: cta_mini
+    preheading: Scale my Business
+    heading: We Are Looking To Work With One Business A Month.
+    button:
+      text: Yes, I want Growth
+      url: /services/
   - _bookshop_name: counter
     numbers:
       - number: 200
@@ -88,4 +88,12 @@ content_blocks:
     heading: Have a question that can't wait.
     content: Chat on WhatsApp
     phone: +23 876 65 455
+  - _bookshop_name: cta
+    background_image: ''
+    preheading: CTA
+    heading: Heading
+    content: >-
+      ## We're looking to invest in one great business per month. Will it be
+      yours?
+    phone: Call me
 ---
