@@ -84,7 +84,7 @@ content_blocks:
           sales machine.
   - _bookshop_name: cta
     background_image: /images/bg/home-3.jpg
-    preheading: WE SCALE GREAT COMPANIES.
+    preheading: We Scale Great Companies.
     heading: Have a question that can't wait.
     content: Chat on WhatsApp
     phone: +23 876 65 455
