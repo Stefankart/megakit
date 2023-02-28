@@ -9,10 +9,10 @@ menu:
     url: "/services/"
     open_in_new_tab: false
   - name: "Portfolio"
-    url: "/portfolio/"
+    url: "//"
     open_in_new_tab: false
   - name: "Pricing"
-    url: "/pricing/"
+    url: "//"
     open_in_new_tab: false
   - name: "Blog"
     url: "/blog/"
