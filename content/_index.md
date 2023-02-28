@@ -37,6 +37,11 @@ content_blocks:
       - title: ''
         icon: ''
         content: ''
+        
+        link:
+      text: Scale My Business
+      url: '#'  
+
   - _bookshop_name: counter
     numbers:
       - number: 200
