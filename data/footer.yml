@@ -10,9 +10,6 @@ column:
       - name: Schedule a Meeting
         url: /./
         open_in_new_tab: false
-      - name: FAQ
-        url: //
-        open_in_new_tab: false
   - heading: Quick Link
     items:
       - name: About
@@ -21,9 +18,7 @@ column:
       - name: Services
         url: /services/
         open_in_new_tab: false
-      - name: Blogs
-        url: //
-        open_in_new_tab: false
+
       - name: Contact
         url: /contact/
         open_in_new_tab: false
