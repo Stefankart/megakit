@@ -9,7 +9,8 @@ content_blocks:
     heading: Your Online Retail Partner
     text: >-
       We help B2B companies from SEA and China to stand out in the global
-      market.
+      market. By sharing resources and expertise we help our clients to scale
+      rappidly.
     image_path: /images/bg/home-7.jpg
     button:
       text: Get started
