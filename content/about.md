@@ -64,28 +64,28 @@ content_blocks:
         twitter: themefisher
         instagram: themefisher
         linkedin: themefisher
-      - name: Chiho
+      - name: Dan
         image: /uploads/level4.jpg
         role: Developer
         facebook: themefisher
         twitter: themefisher
         instagram: themefisher
         linkedin: themefisher
-      - name: Salta
+      - name: Serena
         image: /uploads/level5.jpg
         role: Senior Marketer
         facebook: themefisher
         twitter: themefisher
         instagram: themefisher
         linkedin: themefisher
-      - name: Peter Odin
+      - name: Krillin
         image: /uploads/level4.jpg
         role: App Developer
         facebook: themefisher
         twitter: themefisher
         instagram: themefisher
         linkedin: themefisher
-      - image: /uploads/level4.jpg
+      - image: /uploads/pexels-canva-studio-3153198.jpg
         name: 20+ team members
         role: Project Manager
         facebook: themefisher
