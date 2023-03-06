@@ -8,9 +8,12 @@ content_blocks:
     preheading: What we are
     heading: Your Online Retail Partner
     text: >-
-      We help B2B companies from SEA and China to stand out in the global
-      market. By sharing resources and expertise we help our clients to scale
-      rappidly.
+      At DMA Global, we're passionate about helping B2B companies grow and
+      succeed. With a personalized approach to our services and a focus on
+      strategic guidance, operational support, and expert marketing, we help
+      businesses achieve their growth goals and stand out in a crowded market.
+      Contact us today to learn how we can help your business achieve its full
+      potential.
     image_path: /images/bg/home-7.jpg
     button:
       text: Get started
@@ -19,15 +22,22 @@ content_blocks:
     sections:
       - title: Our Mission
         text: >-
-          Help Chinese brand to overcome the barriers to enter  the western
-          markets and stand out. Typically we are looking for 3-5 year long
-          partnerships.
+          Our mission at DMA Global is to help B2B companies succeed by
+          providing expert guidance, operational support, and targeted marketing
+          services.
       - title: Vision
         text: >-
-          Become A global leader for chinese and SAE SME's that want to enter
-          and dominate the global market.
+          Our vision is to be the go-to partner for B2B companies looking to
+          achieve their growth goals and stand out in a crowded market.
       - title: Our Approach
-        text: We only work with handpicked and qualified businesses
+        text: >-
+          We take a personalized approach to our services, taking the time to
+          get to know our clients, their goals, and their challenges. We provide
+          strategic guidance, operational support, and targeted marketing
+          services to help our clients achieve their growth goals and succeed in
+          their industry. With a focus on trust, transparency, and exceptional
+          service, we're committed to building long-term partnerships with our
+          clients based on mutual success.
   - _bookshop_name: counter_dark
     numbers:
       - icon: ti-check
