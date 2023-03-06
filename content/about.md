@@ -61,11 +61,11 @@ content_blocks:
     heading: 'Our Global Leaders '
     people:
       - name: Stephan
-        image: /uploads/level4.jpg
+        image: /uploads/l2sj4-66.jpg
         role: CO-FOUNDER CEO
-        facebook: themefisher
-        twitter: themefisher
-        instagram: themefisher
+        facebook:
+        twitter:
+        instagram:
         linkedin: stephan-dma
       - name: Richard
         image: /uploads/level4.jpg
