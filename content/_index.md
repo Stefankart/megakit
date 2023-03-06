@@ -76,34 +76,6 @@ content_blocks:
       - number: 24
         suffix: +
         text: Team Members
-  - _bookshop_name: services
-    preheading: Power Hour
-    heading: 'Sign Up For A Free Power Hour Call '
-    sections:
-      - title: Market Selection
-        icon:
-        content: Find out if you are you in the right market.
-      - title: Offer Creation
-        icon:
-        content: Learn how to optimize your offer to maximize your ROI.
-      - title: Value Equation
-        icon:
-        content: >-
-          Learn how to maximize your buyer's perceived value. So you get what
-          you deserve.
-      - title: Pricing Strategy
-        icon:
-        content: >-
-          Are you struggling with acquisition? Learn how to effectively use
-          pricing strategies, so you get paid to find new customers.
-      - title: Bonusses & Guarentees
-        icon: ''
-        content: ''
-      - title: LinkedIn Ads
-        icon: ''
-        content: >-
-          Don't miss out on valuable traffic. Transform our LinkedIn page into a
-          sales machine.
   - _bookshop_name: cta
     background_image: /images/bg/home-3.jpg
     preheading: We Scale Great Companies.
