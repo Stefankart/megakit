@@ -8,7 +8,7 @@ column:
         url: /about/
         open_in_new_tab: false
       - name: Schedule a Meeting
-        url: /./
+        url: https://cal.com/stephandma/dma-qa
         open_in_new_tab: false
   - heading: Quick Link
     items:
@@ -18,7 +18,6 @@ column:
       - name: Services
         url: /services/
         open_in_new_tab: false
-
       - name: Contact
         url: /contact/
         open_in_new_tab: false
