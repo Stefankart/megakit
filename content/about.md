@@ -81,20 +81,6 @@ content_blocks:
         twitter: themefisher
         instagram: themefisher
         linkedin: themefisher
-      - name: Serena
-        image: /uploads/level5.jpg
-        role: Senior Marketer
-        facebook: themefisher
-        twitter: themefisher
-        instagram: themefisher
-        linkedin: themefisher
-      - name: Krillin
-        image: /uploads/level4.jpg
-        role: App Developer
-        facebook: themefisher
-        twitter: themefisher
-        instagram: themefisher
-        linkedin: themefisher
       - image: /uploads/pexels-canva-studio-3153198.jpg
         name: 20+ team members
         role: Project Manager
