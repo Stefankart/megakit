@@ -108,6 +108,8 @@ content_blocks:
     background_image: /images/bg/home-3.jpg
     preheading: We Scale Great Companies.
     heading: Have a question that can't wait.
-    content: '[Chat on WhatsApp](wa.link/v2zl33)'
+    content: >-
+      <a target="_blank" rel="noopener" href="wa.link/v2zl33">Chat on
+      WhatsApp</a>
     phone:
 ---
