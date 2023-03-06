@@ -108,6 +108,6 @@ content_blocks:
     background_image: /images/bg/home-3.jpg
     preheading: We Scale Great Companies.
     heading: Have a question that can't wait.
-    content: Chat on WhatsApp
-    phone: +23 876 65 455
+    content: '[Chat on WhatsApp](wa.link/v2zl33)'
+    phone:
 ---
