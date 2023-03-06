@@ -5,12 +5,14 @@ hero:
   background_image: /images/bg/home-2.jpg
 content_blocks:
   - _bookshop_name: contact_form
-    preheading: We Scale Companies
-    heading: Don’t Hesitate to contact with us for any kind of information
+    preheading: DMA Global
+    heading: >-
+      Let's work together to take your business to the next level – contact us
+      today!
     form_heading: Contact Form
     address: North Main Street, Brooklyn, Australia
-    email: contact@mail.com
-    phone: +88 01672 506 744
+    email: hey@dma-global.nl
+    phone: +86 15621124179
     facebook: themefisher
     twitter: themefisher
     linkedin: themefisher
