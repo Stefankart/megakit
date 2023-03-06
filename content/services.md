@@ -8,43 +8,53 @@ content_blocks:
     preheading:
     heading: We provide a wide range of creative services
     sections:
-      - title: Supply Chain Management
+      - title: Strategic guidance
         icon: ti-desktop
         content: >-
-          We help brands to improve their supply chain efficiency, increasing
-          sales and optimizing inventory.
-      - title: Digital Marketing
+          We provide expert guidance to help B2B companies grow and scale
+          effectively. Our tech experts can help you identify areas where
+          technology can help you optimize your operations and streamline your
+          processes.
+      - title: Operational support
         icon: ti-layers
         content: >-
-          We help B2B companies from SEA and China get more qualified traffic,
-          sales, and revenue through conversion-focused SEO and content
-          marketing.
-      - title: Business Audit
+          We offer operational support to help you make the most of technology
+          and optimize your operations. We'll help you automate repetitive
+          tasks, integrate new technologies into your processes, and free up
+          your team to focus on growth and innovation.
+      - title: Targeted marketing
         icon: ti-bar-chart
         content: >-
-          We analyze your traffic sources, acquisition process, and your
-          monetization strategy to show you the opportunities.
-      - title: Tech Solutions
+          Our tech-focused marketing services are designed to help B2B companies
+          stand out in a crowded market. We'll help you develop a marketing
+          strategy that targets the right customers and builds brand awareness
+          using the latest digital technologies.
+      - title: Custom software
         icon: ti-android
         content: >-
-          No matter what language your website, application, or custom
-          development project speaks — or needs to speak — we can help.
-      - title: Coaching & Training
+          Our tech experts can design and build custom software solutions
+          tailored to your business needs. From enterprise software to mobile
+          apps, we'll help you leverage technology to gain a competitive edge.
+      - title: Personalized approach
         icon: ti-pencil-alt
         content: >-
-          A digital agency isn't here to replace your internal team, we're here
-          to partner.
-      - title: Exlusive Community
+          We take a personalized approach to our services, taking the time to
+          get to know your business, your goals, and your challenges. We'll work
+          with you every step of the way to provide the guidance and support you
+          need to succeed in the digital age.
+      - title: Long-term partnership
         icon: ti-bar-chart
         content: >-
-          Business Services Marketplace to find international experts to solve
-          any business problem.
-      - title: Investment Partner
+          We're committed to building long-term partnerships with our clients
+          based on trust, transparency, and exceptional service. Our tech
+          experts will be there to support you every step of the way as you grow
+          and scale your business.
+      - title: Global reach
         icon: ti-vector
         content: >-
-          We provide an offer with terms on how we would like to invest our
-          capital & time into your business to participate in the growth over
-          the next 3-5 years.
+          As a global company with experience working with businesses around the
+          world, we can provide valuable insights and connections to help your
+          business succeed in new markets using the latest digital technologies.
   - _bookshop_name: cta_mini
     preheading: Join us
     heading: We are building a community for international experts.
