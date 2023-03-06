@@ -12,28 +12,50 @@ content_blocks:
     preheading: We only work with a selected few.
     heading: ' We''re looking to invest in one great business per month. Will it be yours?'
     sections:
-      - title: Do you got what it take?
+      - title: Potential to Grow
         icon: ''
         content: >-
-          You're a B2B company with at least 7 figures in annual revenue. You
-          are looking to invest in your business and scale.
-      - title: International Client base
-        icon:
-        content: You're located in China or SAE and have an international client base.
-      - title: Market
+          You are a B2B company with strong growth potential, but you lack the
+          expertise to scale your business effectively. DMA Global can provide
+          strategic guidance and operational support to help you achieve your
+          growth goals.
+      - title: New Markets
         icon:
         content: >-
-          You are an online service provider or a manufacturer, with a unique
-          avatar.
-      - title: We Scaler Great Companies
+          You are a successful B2B company looking to expand into new markets or
+          launch new products, but you need additional funding to make it
+          happen. DMA Global can provide the capital you need to achieve your
+          goals and the strategic guidance to help you succeed.
+      - title: Competition
         icon:
-        content: This is an 80-20 done for you service. Are you ready to commit.
-      - title: Marketing budget
+        content: >-
+          You are a B2B company facing intense competition and struggling to
+          differentiate your brand. DMA Global can help you stand out in a
+          crowded market by developing a targeted marketing strategy and
+          building brand awareness.
+      - title: Done For You
+        icon:
+        content: >-
+          You're a busy B2B company with limited time and resources to invest in
+          marketing and scaling your business. DMA Global offers an 80-20 "done
+          for you" service, handling the heavy lifting so you can focus on
+          running your business. We provide the expertise, support, and
+          resources you need to achieve your growth goals, leaving you with more
+          time to focus on what you do best.
+      - title: Revenue
         icon: ''
-        content: Your current marketing budget is 10k or more.
+        content: >-
+          You are a B2B company with at least 7 figures in annual revenue and
+          looking to invest in your business and scale. DMA Global specializes
+          in working with companies like yours, providing the expertise and
+          support you need to achieve your growth goals.
       - title: Yes, I want Growth
         icon: ''
-        content: You want to 3x your business and are ready to participate and invest.
+        content: >-
+          Ready to take your business to the next level? Contact DMA Global
+          today to learn how we can help you achieve your growth goals and scale
+          your business effectively. Let's work together to take your business
+          to new heights!
   - _bookshop_name: cta_mini
     preheading: Scale my Business
     heading: We Are Looking To Work With One Business A Month.
