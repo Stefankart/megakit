@@ -56,36 +56,4 @@ content_blocks:
         number: 23
         suffix: +
         text: Team Members
-  - _bookshop_name: team
-    preheading: Our Team
-    heading: 'Our Global Leaders '
-    people:
-      - name: Stephan
-        image: /uploads/l2sj4-66.jpg
-        role: CO-FOUNDER CEO
-        facebook:
-        twitter:
-        instagram:
-        linkedin: stephan-dma
-      - name: Richard
-        image: /uploads/level4.jpg
-        role: UI/UX Designer
-        facebook: themefisher
-        twitter: themefisher
-        instagram: themefisher
-        linkedin: themefisher
-      - name: Dan
-        image: /uploads/level4.jpg
-        role: Developer
-        facebook: themefisher
-        twitter: themefisher
-        instagram: themefisher
-        linkedin: themefisher
-      - image: /uploads/pexels-canva-studio-3153198.jpg
-        name: 20+ team members
-        role: Project Manager
-        facebook: themefisher
-        twitter: themefisher
-        instagram: themefisher
-        linkedin: themefisher
 ---
